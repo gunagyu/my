@@ -21,7 +21,7 @@ class WordCount {
       }
     }
 
-    // get the execution environme
+
     val env: StreamExecutionEnvironment = StreamExecutionEnvironment.getExecutionEnvironment
 
     // get input data by connecting to the socket
